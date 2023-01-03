@@ -7,16 +7,20 @@
 }
 
 body{
-    background-color: #14213d;
+    background-color: #3B5BA5;
 }
 
 .fix{
-    border:2px solid #fca311;
+    border:2px solid #E87A5D;
     border-radius: 5px;
-    background-color:#fca311 ;
+    background-color:#E87A5D ;
     padding: 10px;
 }
 
-h1,h4{
-    color:#e5e5e5;
+h1{
+    color:#F3B941;
+}
+
+h4{
+    color:#F3B941;
 }
